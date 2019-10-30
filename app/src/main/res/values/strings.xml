@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Preloved</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="order">order</string>
+    <string name="favorite">favorite</string>
+    <string name="content_text">Kardigan desain kimono dengan detail motif bunga</string>
+    <string name="content_size">ONE SIZE</string>
+    <string name="content_warna">Navy</string>
+    <string name="content_harga">Rp. 441.000</string>
+    <!--<string name="nama_baju">Kimora Outer Geo Borders</string>-->
+    <string name="size">size</string>
+    <string name="warna">warna</string>
+    <string name="harga">harga</string>
+    <string name="kimora">Kimora Outer Geo Borders</string>
+    <string name="content_kategori">Outer</string>
+    <string name="description_title">Preloved</string>
+    <string name="description">Preloved merupakan aplikasi untuk menjual baju-baju yang sudah tidak terpakai namun kualitasnya masih bagus</string>
+
+
+</resources>
